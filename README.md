@@ -2,8 +2,12 @@ This is a simple Movie app made by me 😅
 
 Features-> search movie, add-to-favourites
 
-You can check the app open [https://soft-tiramisu-8ae4f7.netlify.app/]
+You can check the app open [https://ayan-movie.netlify.app/]
 happy hacking bro😎
+
+download the code and run following command
+
+### `npm i`
 
 ### `npm run dev`
 
